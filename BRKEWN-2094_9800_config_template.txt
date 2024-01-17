@@ -287,7 +287,5 @@ ap profile default-ap-profile
  calendar-profile CALENDAR_PRFL_NIGHT
   action power-saving-mode power-profile PWR_PRFL_1G_1X1
 !
-file prompt alert
-!
 end
 
